@@ -13,7 +13,8 @@ I'm an Aspiring Web Developer based in Cirebon, Indonesia. Learning since Septem
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 ### 📌 Pinned Projects
-- Soon...
+- [navbar-dropdown](https://github.com/WiryaC/navbar-dropdown) - A clean and responsive navigation bar with dropdown, built with HTML & CSS.
+- More projects coming soon...
 
 ---
 *“Casmita - C for Code, C for Cyber.”*
